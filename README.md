@@ -4,6 +4,8 @@ This app was created using flutter framework
 
 ## What I did.
 
+All 4 questions have been attempted. Following are the key points of the assignment: 
+
 State managment - Used Bloc Package for state management
 
 API - https://dummyjson.com/products. Fetched products, displayed a clean UI. Also did some calculations such as discounted price. Also added Cart functionality, add more items, etc.

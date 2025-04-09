@@ -1,6 +1,6 @@
 # Assignment
 
-This app was created using flutter framework which integrated a dummy api.
+This app was created using flutter framework which integrated a dummy api, a music player and a form.
 
 ## What I did.
 

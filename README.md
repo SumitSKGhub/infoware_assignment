@@ -1,16 +1,16 @@
-# infoware
+# Assignment
 
-A new Flutter project.
+This app was created using flutter framework
 
-## Getting Started
+## What I did.
 
-This project is a starting point for a Flutter application.
+State managment - Used Bloc Package for state management
 
-A few resources to get you started if this is your first Flutter project:
+API - https://dummyjson.com/products. Fetched products, displayed a clean UI. Also did some calculations such as discounted price. Also added Cart functionality, add more items, etc.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Validation - Email has format validation. Password should be of 6 or more characters. Phone number should be exactly of length 10. Rest of the fields should be non empty to make the submit button visible.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+OOP concepts - Used objects as instances of classes.
+
+DRY concepts - Used Dynamic widget builders to avoid repetitive code.
+
